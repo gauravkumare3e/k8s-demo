@@ -54,5 +54,7 @@ k8s-demo/
 
 &nbsp;└── README.md          # Project documentation
 
+Author :GAURAV KUMAR 
+GitHub reo : https://github.com/gauravkumare3e/k8s-demo.git
 
 
