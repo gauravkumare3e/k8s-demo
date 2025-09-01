@@ -58,6 +58,5 @@ This will open the Nginx welcome page 🎉
 
 👨‍💻 Author
 Gaurav Kumar
-🔗 GitHub Repo: k8s-demo
 
 
